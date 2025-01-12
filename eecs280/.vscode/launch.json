@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ashso/OneDrive/Desktop/CplusplusPrimer5th-exercise",
-      "program": "c:/Users/ashso/OneDrive/Desktop/CplusplusPrimer5th-exercise/build/Debug/outDebug",
+      "cwd": "c:/Users/ashso/OneDrive/Desktop/CplusplusPrimer5th-exercise/chapter6",
+      "program": "c:/Users/ashso/OneDrive/Desktop/CplusplusPrimer5th-exercise/chapter6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
