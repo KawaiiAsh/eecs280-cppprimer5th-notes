@@ -17,6 +17,6 @@ public:
 
 int main(){
     Dog::speak();
-    Cat::speak(); // 非法
+    // Cat::speak(); // 非法
     return 0;
 }
