@@ -1,17 +1,11 @@
 #include <iostream>
 using namespace std;
 
-struct square{
-    int w;
-    int h;
-
-    square(int x,int y):w(x),h(y){}
-};
-
 int main(){
-    square s1(1,1);
-    square s2(2,2);
-    s1 = s2;
-    
+    int x = 1;
+    int *ptr = &x;
+    cout << &x << endl; // X的地址
+    cout << ptr << endl; // X的地址
+    cout << &ptr << endl; // 指针自身的地址
     return 0;
 }
